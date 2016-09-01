@@ -1,0 +1,24 @@
+/**
+ * Scott Minter
+ * sminter@gmail.com
+ * September 1, 2016
+ *
+ * This files contains the CSS for the site that isn't bootstrap.
+ */
+
+#myMap {
+    height: 500px;
+    margin-top: 10px;
+    border-radius: 6px;
+}
+
+#header {
+    background-color: #E9EBEE;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #E4E4E4;
+    letter-spacing: 3px;
+}
+
+#pageTitle {
+    letter-spacing: 10px;
+}
